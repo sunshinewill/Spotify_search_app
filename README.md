@@ -1,4 +1,4 @@
-# spotifySearchApp
+# Spotify Search App
 A Spotify Web App allows to look up artist information and top 10 popular tracks of an artist.
 
 1, The data set that I chose:
